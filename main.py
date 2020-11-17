@@ -62,7 +62,7 @@ def install_lantern():
 def all_1():
     """
     全部功能都走一遍，按照顺序
-    """"
+    """
     pass
 
 
